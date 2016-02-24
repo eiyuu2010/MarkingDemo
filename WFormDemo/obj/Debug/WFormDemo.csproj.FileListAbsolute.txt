@@ -1,0 +1,11 @@
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\bin\Debug\WFormDemo.exe.config
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\bin\Debug\WFormDemo.exe
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\bin\Debug\WFormDemo.pdb
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\obj\Debug\WFormDemo.DrawB.resources
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\obj\Debug\WFormDemo.Form1.resources
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\obj\Debug\WFormDemo.Properties.Resources.resources
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\obj\Debug\WFormDemo.csproj.GenerateResource.Cache
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\obj\Debug\WFormDemo.exe
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\WFormDemo\WFormDemo\obj\Debug\WFormDemo.pdb
